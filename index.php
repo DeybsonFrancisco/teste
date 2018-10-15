@@ -9,6 +9,7 @@
 
 	 ?>
 	<pre>
+		<h1>hello word</h1>
 		<h1>Cadastro de usuarios</h1>
 		<form action="dados.php" method="GET">
 			<label for="id">ID </label>
